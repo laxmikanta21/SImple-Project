@@ -1,0 +1,36 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #FDFFFC;
+  background-color:  #011627;
+  border: 60px solid #2EC4B6;
+  border-top:0px;
+  margin: 0px;
+  text-align: center;
+}
+p{
+  color: #FDFFFC;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+h2{
+  margin-bottom: 5px;
+}
+#sub{
+  margin-bottom: 5px;
+  font-family: Montserrat;
+  background-color: #FF9F1C;
+  border-radius: 25px;
+  height: 80px;
+  width: 150px;
+  font-size: 1.2em;
+}
+#lastone{
+  text-align: right;
+  color: #35c6b1;
+}
